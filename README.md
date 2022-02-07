@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 - ♔ I keep my repositories **private**, if you want to **see** them, you can **reach** me
 
-- ♕ I’m currently working on an Unreal Engine game called **Vermilion**
+- ♕ I’m currently working on an **Unreal Engine** game called **Vermilion**
 
 - ♖ I’m currently learning **Java, Python, Scala and Unreal Engine**
 
@@ -14,7 +14,7 @@
 
 - ♘ How to reach me **yigit.kucuk@ug.bilkent.edu.tr**
 
-- ♙ I am also a chess player, if you are working on something related to chess, contact me. Here is my [Lichess account.](https://lichess.org/@/GrowingPainsIV)
+- ♙ I am also a chess player, if you are working on something related to **chess**, contact me. Here is my [Lichess account.](https://lichess.org/@/GrowingPainsIV)
 <br/><br/>
 
 ## 🚀 My Languages and Tools
