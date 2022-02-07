@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-- I keep my repositories **private**, if you want to **see** them, you can **reach** me
+- 🔭 I keep my repositories **private**, if you want to **see** them, you can **reach** me
 
 - 🔭 I’m currently working on an Unreal Engine game called **Vermilion**
 
