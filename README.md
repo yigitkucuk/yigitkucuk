@@ -57,10 +57,11 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yi%C4%9Fit-k%C3%BC%C3%A7%C3%BCk-112865229/?locale=en_US"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+#
 </p>
 
 ## Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YigitKucuk">
 </a>
