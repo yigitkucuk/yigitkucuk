@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/kMvnYUB.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="" height="175px"/></a>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I'm Yiğit</h1>
 <h3 align="center">I'm a Computer Science student at Bilkent University, Ankara</h3>
