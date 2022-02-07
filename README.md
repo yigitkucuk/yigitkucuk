@@ -29,16 +29,16 @@
 
 ## 🔥 My Current Streak
 <br/><br/>
-<p align="center">
+<p align="left">
     <a href="https://github.com/YigitKucuk/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yigit Kucuk's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YigitKucuk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yigit Kucuk's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YigitKucuk&theme=black-ice&hide_border=true&stroke=0000&background=0C1116"/>
     </a>
 </p>
 
 ## 👨🏻‍💻 My Github Stats
 
   <br/>
-    <a href="https://github.com/YigitKucuk/github-readme-stats"><img alt="Yigit Kucuk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YigitKucuk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/YigitKucuk/github-readme-stats"><img alt="Yigit Kucuk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YigitKucuk&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0C1116" /></a>
 
   <br/>
 
