@@ -14,6 +14,8 @@
 - ♗ I’m looking to collaborate on **Java** or **Python** projects
 
 - ♘ How to reach me **yigit.kucuk@ug.bilkent.edu.tr**
+
+- ♙ I am also a chess player, if you are working on something related to chess, contact me. Also my [Lichess account.](https://lichess.org/@/GrowingPainsIV)
 <br/><br/>
 
 ## 🚀 My Languages and Tools
