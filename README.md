@@ -1,6 +1,6 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Yiğit</h1>
-<h3 align="center">I'm a Computer Science student at Bilkent University, Ankara</h3>
+<h3 align="center">I'm a Computer Science undergraduate at Bilkent University, Ankara</h3>
 
 
 ## 🙋‍♂️ About Me
