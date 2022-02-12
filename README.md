@@ -10,7 +10,7 @@
 
 - ♖ I’m currently learning **Java, Python, JS and Unreal Engine**
 
-- ♗ I’m looking to collaborate on **Java** or **Python** projects
+- ♗ I’m looking to **collaborate** on **Java** or **Python** projects
 
 - ♘ Reach me at **yigit.kucuk@ug.bilkent.edu.tr**
 
