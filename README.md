@@ -8,7 +8,7 @@
 
 - ♕ I’m currently working on an **Unreal Engine** game called **Vermilion**
 
-- ♖ I’m currently learning **Java, Python, Scala and Unreal Engine**
+- ♖ I’m currently learning **Java, Python, JS and Unreal Engine**
 
 - ♗ I’m looking to collaborate on **Java** or **Python** projects
 
