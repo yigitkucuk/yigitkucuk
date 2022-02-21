@@ -17,7 +17,7 @@
 - ♙ I am also a chess player, if you are working on something related to **chess**, contact me. Here is my [Lichess account.](https://lichess.org/@/GrowingPainsIV)
 <br/><br/>
 
-##  My Languages and Tools
+##  My Languages
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-## My Recent Activities
+## My Activity Chart
 <a href="https://github.com/YigitKucuk/github-readme-activity-graph"><img alt="Yigit Kucuk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=YigitKucuk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
