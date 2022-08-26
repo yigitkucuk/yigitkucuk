@@ -1,4 +1,4 @@
-- ♔ I am Yiğit, a 19 year old Computer Engineering undergrad at Bilkent University.
+- ♔ I am Yiğit, a 19 year old Computer Engineering undergraduate at Bilkent University.
 
 - ♕ I’m currently working on an **Unreal Engine** game called **Vermilion**
 
