@@ -1,9 +1,3 @@
-
-<h1 align="center"><img src="" width="0px"> Hi there, I'm Yiğit</h1>
-<h3 align="center">I'm a Computer Science undergraduate at Bilkent University, Ankara</h3>
-
-
-## About Me
 - ♔ I am Yiğit, a 19 year old Computer Engineering undergrad at Bilkent University.
 
 - ♕ I’m currently working on an **Unreal Engine** game called **Vermilion**
