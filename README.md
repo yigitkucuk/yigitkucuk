@@ -21,12 +21,12 @@
                   :))IIITTTTTLTTTTTTLLHLLLLL);=)II)IIIIi=:      I am currently a Computer Science undergraduate at Bilkent.
                   :i)IIITTTTTTTTTLLLHLLHLL)+=)II)ITTTI)i=
                   .i)IIITTTTITTLLLHHLLLL);=)II)ITTTTII)i+       If you are looking for contribution to your project,
-                  =i)IIIIIITTLLLLLLHLL=:i)II)TTTTTTIII)i'       reach me at yigit.kucuk@ug.bilkent.edu.tr
-                +i)i)))IITTLLLLLLLLT=:i)II)TTTTLTTIII)i;
+                  =i)IIIIIITTLLLLLLHLL=:i)II)TTTTTTIII)i'       yigit.kucuk@ug.bilkent.edu.tr & yigitkucuk@proton.me
+                +i)i)))IITTLLLLLLLLT=:i)II)TTTTLTTIII)i;        
               +ii)i:)IITTLLTLLLLT=;+i)I)ITTTTLTTTII))i;         I mostly work with Java, C++ and Python, but I can adapt.
              =;)i=:,=)ITTTTLTTI=:i))I)TTTLLLTTTTTII)i;
            +i)ii::,  +)IIITI+:+i)I))TTTTLLTTTTTII))=,           I am up for a chess match whenever I am available :)
-         :=;)i=:,,    ,i++::i))I)ITTTTTTTTTTIIII)=+'            here is my lichess account https://lichess.org/@/GrowingPainsIV
+         :=;)i=:,,    ,i++::i))I)ITTTTTTTTTTIIII)=+'            Here is my lichess account https://lichess.org/@/Yigitv
        .+ii)i=::,,   ,,::=i)))iIITTTTTTTTIIIII)=+
       ,==)ii=;:,,,,:::=ii)i)iIIIITIIITIIII))i+:'
      +=:))i==;:::;=iii)+)=  `:i)))IIIII)ii+'
