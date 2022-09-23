@@ -1,6 +1,6 @@
 ```
 
-Hi, I am Yiğit, I am 19.
+Hi, I am Yiğit.
 I am currently a Computer Science undergraduate at Bilkent.
 
 If you are looking for contribution to your project,
