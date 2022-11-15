@@ -1,7 +1,7 @@
 ```
 
 Hi, I am Yiğit.
-I am currently a Computer Science undergraduate at Bilkent, interested in computer architecture.
+I am currently a Computer Engineering undergraduate at Bilkent, interested in computer architecture.
 
 If you are looking for contribution to your project, reach me at
 yigit.kucuk@ug.bilkent.edu.tr & yigitkucukbusiness@gmail.com
