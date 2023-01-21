@@ -2,7 +2,7 @@
 Hi, I am Yiğit, a Computer Engineering undergraduate in Bilkent.
 
 I am interested in computer architecture and embedded systems,
-as well as back-end development and Image to Image diffusion.
+as well as back-end development and text-image classification.
 
 If you are looking for contribution to your project, reach me at
 yigit.kucuk@ug.bilkent.edu.tr & yigitkucukbusiness@gmail.com
