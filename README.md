@@ -1,27 +1,12 @@
-```
-Hi, I am Yiğit, a Computer Engineering undergraduate in Bilkent.
-
-I am interested in computer architecture and embedded systems,
-as well as back-end development and text-image classification.
+Hi, I am Yiğit, a ```Computer Engineering undergraduate``` in ```Bilkent University```.
 
 If you are looking for contribution to your project, reach me at
-yigit.kucuk@ug.bilkent.edu.tr & yigitkucukbusiness@gmail.com
+```yigit.kucuk@ug.bilkent.edu.tr``` & ```yigitkucukbusiness@gmail.com```
 
-I mostly work with Java, C++, SystemVerilog and Python, but I can adapt.
-```
+I mostly work with ```Java```, ```C++```, ```SystemVerilog``` and ```Python```, but I can adapt.
 
-```
-LinkedIn: (https://www.linkedin.com/in/yigit-kucuk/?locale=en_US)
-
-Website: (https://yigitkucuk.com)
-
-GitLab: (https://gitlab.com/yigitkucuk)
-
-Shell Website: (https://yigitkucukshell.vercel.app/)
-
-HuggingFace: (https://huggingface.co/yigitkucuk)
-```
-[<img src=github.svg width="50" height="50">](https://github.com/yigitkucuk)
-[<img src=gitlab.svg width="50" height="50">](https://gitlab.com/yigitkucuk)
-[<img src=shell.svg width="50" height="50">](https://yigitkucukshell.vercel.app/)
-[<img src=website.svg width="50" height="50">](https://yigitkucuk.com)
+[<img src=github.svg width="40" height="40">](https://github.com/yigitkucuk)
+[<img src=gitlab.svg width="40" height="40">](https://gitlab.com/yigitkucuk)
+[<img src=shell.svg width="40" height="40">](https://yigitkucukshell.vercel.app/)
+[<img src=website.svg width="40" height="40">](https://yigitkucuk.com)
+[<img src=linkedin.svg width="40" height="40">](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US)
