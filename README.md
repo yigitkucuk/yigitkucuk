@@ -21,3 +21,4 @@ Shell Website: (https://yigitkucukshell.vercel.app/)
 
 HuggingFace: (https://huggingface.co/yigitkucuk)
 ```
+[<img src=github.svg width="50" height="50">](https://github.com/yigitkucuk)
