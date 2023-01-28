@@ -5,8 +5,4 @@ If you are looking for contribution to your project, reach me at
 
 I mostly work with ```Java```, ```C++```, ```SystemVerilog``` and ```Python```, but I can adapt.
 
-[<img src=github.svg width="30" height="30">](https://github.com/yigitkucuk)
-[<img src=gitlab.svg width="30" height="30">](https://gitlab.com/yigitkucuk)
-[<img src=shell.svg width="30" height="30">](https://yigitkucukshell.vercel.app/)
-[<img src=website.svg width="30" height="30">](https://yigitkucuk.com)
-[<img src=linkedin.svg width="30" height="30">](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US)
+[```Github```](https://github.com/yigitkucuk)  [```Gitlab```](https://gitlab.com/yigitkucuk) [```Linkedin```](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US) [```Huggingface```](https://huggingface.co/yigitkucuk) [```Website```](https://www.yigitkucuk.com/) [```Shell App```](https://yigitkucukshell.vercel.app/)
