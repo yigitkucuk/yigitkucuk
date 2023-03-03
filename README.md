@@ -1,4 +1,4 @@
-Hi, I am Yiğit, a ```Computer Engineering undergraduate``` in ```Bilkent University```.
+Hi, I am Yiğit, a ```Computer Engineering undergraduate``` at ```Bilkent University```.
 
 If you are looking for contribution to your project, reach me at
 ```yigit.kucuk@ug.bilkent.edu.tr``` & ```yigitkucukbusiness@gmail.com```
