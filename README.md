@@ -7,4 +7,4 @@ I mostly work with ```Java```, ```C++```, ```SystemVerilog``` and ```Python```, 
 
 Currently working on ```Classification Problem```, ```Machine Learning```, and ```Computer Vision```.
 
-[```Github```](https://github.com/yigitkucuk) [```Gitlab```](https://gitlab.com/yigitkucuk) [```Codeberg```](https://codeberg.org/yigitkucuk) [```Linkedin```](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US) [```Huggingface```](https://huggingface.co/yigitkucuk) [```Website```](https://www.yigitkucuk.com/) [```Shell App```](https://yigitkucukshell.vercel.app/)
+[```Github```](https://github.com/yigitkucuk) [```Gitlab```](https://gitlab.com/yigitkucuk) [```Codeberg```](https://codeberg.org/yigitkucuk) [```Linkedin```](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US) [```Huggingface```](https://huggingface.co/yigitkucuk) [```Website```](https://www.yigitkucuk.com/) [```Shell App```](https://shell.yigitkucuk.com/)
