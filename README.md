@@ -7,4 +7,6 @@ I mostly work with ```Java```, ```C++```, ```SystemVerilog``` and ```Python```, 
 
 Currently working on ```Classification Problem```, ```Machine Learning```, and ```Computer Vision```.
 
+I play  [```Chess```](https://lichess.org/@/yigitskylab) and  [```Shogi```](https://lishogi.org/@/yigitkucuk), and I am open for challenges :)
+
 [```Github```](https://github.com/yigitkucuk) [```Gitlab```](https://gitlab.com/yigitkucuk) [```Codeberg```](https://codeberg.org/yigitkucuk) [```Linkedin```](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US) [```Huggingface```](https://huggingface.co/yigitkucuk) [```Website```](https://www.yigitkucuk.com/) [```Shell App```](https://shell.yigitkucuk.com/)
