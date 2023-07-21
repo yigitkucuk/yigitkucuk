@@ -1,7 +1,7 @@
 Hi, I am Yiğit, a ```Computer Engineering undergraduate``` at ```Bilkent University```.
 
 Reach me at
-```yigit.kucuk@ug.bilkent.edu.tr``` & ```yigitkucukbusiness@gmail.com```
+```yigit.kucuk@ug.bilkent.edu.tr``` || ```yigitkucukbusiness@gmail.com```
 
 Currently working on ```Classification Problem```, ```Machine Learning```, and ```Computer Vision```.
 
