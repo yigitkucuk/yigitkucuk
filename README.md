@@ -1,7 +1,7 @@
 Hi, I am Yiğit, a ```Computer Engineering Junior``` at ```Bilkent University```.
 
 Reach me at
-```yigit.kucuk@ug.bilkent.edu.tr``` || ```yigitkucukbusiness@gmail.com```
+```yigit.kucuk@ug.bilkent.edu.tr``` or ```yigitkucukbusiness@gmail.com```
 
 Currently working on ```Autonomous and Cooperative Driving```, ```Machine Learning```, and ```Computer Vision```.
 
