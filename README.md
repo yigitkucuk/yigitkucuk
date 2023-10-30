@@ -5,4 +5,4 @@ Reach me at
 
 Currently working on ```Autonomous and Cooperative Driving```, ```Machine Learning```, and ```Computer Vision```.
 
-[```Github```](https://github.com/yigitkucuk) [```Linkedin```](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US) [```Huggingface```](https://huggingface.co/yigitkucuk) [```Website```](https://www.yigitkucuk.com/) 
+[```Github```](https://github.com/yigitkucuk) [```Linkedin```](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US) [```Huggingface```](https://huggingface.co/yigitkucuk) [```Website```](https://www.yigitkucuk.com/) [```Leetcode```](https://leetcode.com/yigitkucuk/) 
