@@ -9,4 +9,4 @@ Currently working on ```Autonomous and Cooperative Driving```, ```Machine Learni
 
 
 ```math
-\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: auto; background-size: auto; width: 120vw; opacity: 0.05; background: url('https://raw.githubusercontent.com/yigitkucuk/yigitkucuk/main/wallhaven-85jl2y_1920x1080.png');]{x0000}$}
+\ce{$\unicode[color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: auto; background-size: auto; width: 120vw; opacity: 0.15; background: url('https://raw.githubusercontent.com/yigitkucuk/yigitkucuk/main/wallhaven-85jl2y_1920x1080.png');]{x0000}$}
