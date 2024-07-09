@@ -1,8 +1,13 @@
-Hi, I am Yiğit, a ```Computer Science Junior``` at ```Bilkent University```.
+Hi there! 
 
-Reach me at
-```yigit.kucuk@ug.bilkent.edu.tr``` or ```yigitkucukbusiness@gmail.com```
+I am a senior computer science student at Bilkent.
 
-Currently working on ```Autonomous and Cooperative Driving```, ```Machine Learning```, and ```Computer Vision```.
+You can learn more about me, my research, and my projects on yigitkucuk.com 
 
-[```Github```](https://github.com/yigitkucuk) [```Linkedin```](https://www.linkedin.com/in/yigit-kucuk/?locale=en_US) [```Huggingface```](https://huggingface.co/yigitkucuk) [```Website```](https://www.yigitkucuk.com/)
+Or contact me at yigit.kucuk [at] ug.bilkent.edu.tr as well as pr.yigit.kucuk [at] proton.me
+
+For my public datasets and models, you may want to take a look at huggingface.co/yigitkucuk
+
+Have a blessed week.
+
+~Yiğit
