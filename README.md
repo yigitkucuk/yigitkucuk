@@ -9,5 +9,3 @@ Or contact me at yigit.kucuk [at] ug.bilkent.edu.tr as well as pr.yigit.kucuk [a
 For my public datasets and models, you may want to take a look at huggingface.co/yigitkucuk
 
 Have a blessed week.
-
-~Yiğit
